@@ -1,0 +1,6 @@
+players - shows the current player who's turn it is
+questions - randomly generated number questions (gets user input for answer)
+lives - 3 lives for each player
+correct - shows the player that they inputted a correct answer
+wrong - shows the player that they inputted a wrong answer
+end of game
